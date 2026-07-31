@@ -1,6 +1,3 @@
-## 📄 The Terminal-Style README.md
-
-```markdown
 # >_ Life-OS: Wellbeing Dashboard 🧠⚡
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app/)
