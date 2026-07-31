@@ -1,7 +1,5 @@
 ## 📄 The Terminal-Style README.md
 
-To add this to your GitHub, click **Add file > Create new file**, name it `README.md`, and paste the following content:
-
 ```markdown
 # >_ Life-OS: Wellbeing Dashboard 🧠⚡
 
